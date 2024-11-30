@@ -1,0 +1,41 @@
+TIMC App 
+
+Stage 1:
+
+1. A GUI with a drag and drop window for unencrypted pdf files
+
+2. Using a python module called PyPdf, it reads each one page by page, and then writes them to a single new pdf file. It prepends a covering letter as page 1 of the new pdf, and a disclaimer / contact info as the final page. Then it saves the new pdf with a password, and it is ready to email out to the patient.
+
+
+Stage 2:
+
+
+1. A GUI with a drag and drop window for unencrypted pdf files
+
+2. Scans the pdf file for name, QID and email adsress. 
+
+3. If there is already a patient with that name, assigns all the matching pdf files to that patient. Otherwise creates a new patient instance.
+
+4. Using a python module called PyPdf, it reads each one page by page, and then writes them to a single new pdf file. It prepends a covering letter as page 1 of the new pdf, and a disclaimer / contact info as the final page. Then it saves the new pdf with a password, and it is ready to email out to the customer.
+
+5. Offers the option of emailing the message immediately
+
+
+Stage 3:
+
+
+1. Opens a web browser window with GUI with a drag and drop window for unencrypted pdf files
+
+2. When a pdf is dropped, uploads it to the server. Scans the pdf file for name, QID and email adsress. 
+
+3. If there is already a patient with that name, assigns all the matching pdf files to that patient. Otherwise creates a new patient instance.
+
+4. Updates the browser window
+
+5. On pressing "generate one pdf to send": using a python module called PyPdf, it reads each one page by page, and then writes them to a single new pdf file. It prepends a covering letter as page 1 of the new pdf, and a disclaimer / contact info as the final page. Then it saves the new pdf with a password, and it is ready to email out to the customer.
+
+5. Offers a preview of the pdf
+
+6. Offers the option of emailing the message immediately on pressing "send by email"
+
+7. By default, saves a copy of the pdf on local PC in a file "reports"

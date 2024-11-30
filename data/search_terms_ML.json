@@ -1,0 +1,467 @@
+{
+    "25 Hydroxy (OH) Vitamin D, serum": [
+        "Vitamin D",
+        "ng/mL",
+        30,
+        100
+    ],
+    "APTT": [
+        "Activated Partial Thromboplastin Time",
+        "Sec",
+        25.1,
+        36.3
+    ],
+    "Albumin": [
+        "Albumin",
+        "g/L",
+        35.0,
+        53.0
+    ],
+    "Alkaline Phosphatase - (ALP)": [
+        "(ALP)",
+        " U/L",
+        30.0,
+        120.0
+    ],
+    "Anti HBs, Total (AHBS)": [
+        [
+            "Anti HBs, Total (AHBS)"
+        ],
+        "mIU/mL",
+        0,
+        0
+    ],
+    "Basophils": [
+        "Basophils",
+        " %",
+        0.0,
+        2.0
+    ],
+    "Beta HCG": [
+        "HCG - Beta Subunit, serum",
+        "mIU/mL",
+        0,
+        1.0
+    ],
+    "Bicarbonate, serum": [
+        "Bicarbonate, serum",
+        "mmol/L",
+        21.0,
+        28.0
+    ],
+    "Bilirubin - (Total)": [
+        "Bilirubin",
+        " mg/dL",
+        0.1,
+        1.2
+    ],
+    "C-Reactive Protein (CRP)": [
+        "(CRP)",
+        " mg/L",
+        0,
+        6.0
+    ],
+    "Calcium": [
+        "Calcium",
+        "mg/dL",
+        8.8,
+        10.6
+    ],
+    "Chlorides": [
+        "Chlorides",
+        "mmol/L",
+        0,
+        0
+    ],
+    "Cholesterol/HDL-C": [
+        "Cholesterol/HDL-C",
+        " ",
+        0,
+        4.0
+    ],
+    "Creatine Kinase (CK)": [
+        "(CK)",
+        "U/L",
+        0,
+        46.0
+    ],
+    "Creatine Kinase (CK-MB)": [
+        "Creatine Kinase (CK-MB)",
+        "U/L",
+        0.0,
+        25.0
+    ],
+    "Creatinine": [
+        "Creatinine",
+        " mg/dL",
+        0.8,
+        1.3
+    ],
+    "D-DIMER": [
+        "D-DIMER",
+        "mcg/ml",
+        0,
+        0.5
+    ],
+    "D-dimer": [
+        "D-dimer",
+        "mcg/ml",
+        0,
+        0.5
+    ],
+    "Eosinophils": [
+        "Eosinophils",
+        " %",
+        0.0,
+        6.0
+    ],
+    "Fasting Glucose": [
+        "Fasting Glucose",
+        "mg/dL",
+        70.0,
+        100.0
+    ],
+    "Ferritin, serum": [
+        "Ferritin",
+        "ng/mL",
+        30.0,
+        400.0
+    ],
+    "Folic acid": [
+        [
+            "folate",
+            "Folate",
+            "Folic acid"
+        ],
+        "ng/mL",
+        5,
+        30
+    ],
+    "Free T4 (Free Thyroxine)": [
+        "(Free Thyroxine)",
+        " pmol/L",
+        12.0,
+        22.0
+    ],
+    "GLucose-G (Random)": [
+        "GLucose-G (Random)",
+        "mg/dL",
+        70.0,
+        140.0
+    ],
+    "Gamma Glutamyl Transferase -(GGT)": [
+        "(GGT)",
+        " U/L",
+        9.0,
+        39.0
+    ],
+    "Globulin": [
+        "Globulin",
+        "g/L",
+        23.0,
+        35.0
+    ],
+    "HBA1c": [
+        "HBA1c",
+        " %",
+        0.0,
+        5.7
+    ],
+    "HCT": [
+        "HCT",
+        " %",
+        37.0,
+        53.0
+    ],
+    "HDL Cholesterol": [
+        "HDL Cholesterol",
+        " mmol/L",
+        1.04,
+        1.56
+    ],
+    "Haemoglobin": [
+        "Haemoglobin",
+        " g/dL",
+        13.5,
+        17.5
+    ],
+    "INR": [
+        "INR",
+        "",
+        0.87,
+        1.12
+    ],
+    "Immunoglobulin-IgA": [
+        "Immunoglobulin-IgA",
+        "g/L",
+        0.2,
+        1.3
+    ],
+    "Immunoglobulin-IgG": [
+        "Immunoglobulin-IgG",
+        "g/L",
+        3.7,
+        15.0
+    ],
+    "Immunoglobulin-IgM": [
+        "Immunoglobulin-IgM",
+        "g/L",
+        0.2,
+        2.2
+    ],
+    "Iron (Fe)": [
+        "Iron (Fe)",
+        " ug/dL",
+        45.0,
+        158.0
+    ],
+    "LDL Cholesterol": [
+        "LDL Cholesterol",
+        " mmol/L",
+        0,
+        4.9
+    ],
+    "LDL/HDL RATIO": [
+        "LDL/HDL RATIO",
+        " ",
+        0,
+        3.0
+    ],
+    "Lactate Dehydrogenase -(LDH)": [
+        "Lactate Dehydrogenase -(LDH)",
+        "U/L",
+        0,
+        0
+    ],
+    "Lymphocytes": [
+        "Lymphocytes",
+        " %",
+        24.0,
+        44.0
+    ],
+    "MCH": [
+        "MCH",
+        " pg",
+        26.0,
+        34.0
+    ],
+    "MCHC": [
+        "MCHC",
+        " g/dL",
+        32.0,
+        36.0
+    ],
+    "MCV": [
+        "MCV",
+        " fL",
+        80.0,
+        100.0
+    ],
+    "Magnesium": [
+        "Magnesium",
+        "mg/dL",
+        1.7,
+        2.5
+    ],
+    "Magnesium,": [
+        "Magnesium,",
+        "mg/dL",
+        1.7,
+        2.5
+    ],
+    "Monocytes": [
+        "Monocytes",
+        " %",
+        2.0,
+        10.0
+    ],
+    "Neutrophils": [
+        "Neutrophils",
+        " %",
+        34.0,
+        66.0
+    ],
+    "Occult blood, stool": [
+        "Occult blood, stool",
+        "",
+        "",
+        ""
+    ],
+    "Phosphorous,": [
+        "Phosphorous,",
+        "mg/dL",
+        4.0,
+        7.0
+    ],
+    "Phosphorus,": [
+        "Phosphorus,",
+        "mg/dL",
+        4.0,
+        7.0
+    ],
+    "Platelets (PLT)": [
+        "Platelets",
+        " 10^3/uL",
+        150.0,
+        450.0
+    ],
+    "Potassium": [
+        "Potassium",
+        " mmol/L",
+        3.5,
+        5.3
+    ],
+    "Prostate Specific Antigen (PSA Total)": [
+        "(PSA Total)",
+        " ng/mL",
+        0.0,
+        4.0
+    ],
+    "Prostate Specific Antigen, (PSA Free)": [
+        "(PSA Free)",
+        "ng/mL",
+        0.0,
+        0.5
+    ],
+    "Prothrombin Time": [
+        "Prothrombin Time",
+        "Seconds",
+        10.0,
+        14.0
+    ],
+    "RBC Count": [
+        "RBC",
+        " 10^6/uL",
+        4.5,
+        5.9
+    ],
+    "RDW- CV": [
+        "RDW - CV",
+        "%",
+        11.5,
+        16.0
+    ],
+    "SGOT - (AST)": [
+        "(AST)",
+        " U/L",
+        0,
+        35.0
+    ],
+    "SGPT - (ALT)": [
+        "(ALT)",
+        " U/L",
+        0,
+        45.0
+    ],
+    "Sodium": [
+        "Sodium",
+        " mmol/L",
+        135.0,
+        148.0
+    ],
+    "Thyroid Stimulating Hormone (TSH)": [
+        "(TSH)",
+        " uIU/mL",
+        0.27,
+        4.2
+    ],
+    "Tissue Transglutaminase TTG IgA": [
+        "Tissue Transglutaminase TTG IgA",
+        "U/mL",
+        0,
+        0
+    ],
+    "Total Cholesterol": [
+        "Total Cholesterol",
+        " mmol/L",
+        3.64,
+        5.2
+    ],
+    "Total IgE": [
+        "Total IgE",
+        "kUI/L",
+        0,
+        150
+    ],
+    "Total Iron Binding Capacity, serum": [
+        "Total Iron Binding Capacity",
+        "mcg/dL",
+        250.0,
+        450.0
+    ],
+    "Total Protein - (TP)": [
+        "(TP)",
+        " g/L",
+        66.0,
+        83.0
+    ],
+    "Total T4": [
+        "Total T4",
+        "nmol/L",
+        60.0,
+        120.0
+    ],
+    "Total Testosterone": [
+        [
+            "Total Testosterone",
+            "Testosterone (ToTal)"
+        ],
+        "ng/mL",
+        2.2,
+        10.5
+    ],
+    "Transferrin": [
+        "Transferrin",
+        "g/L",
+        2.0,
+        3.6
+    ],
+    "Triglycerides": [
+        "Triglycerides",
+        " mmol/L",
+        0.45,
+        1.7
+    ],
+    "Troponin-I (Rapid Test)": [
+        "Troponin",
+        "",
+        "",
+        ""
+    ],
+    "Urea": [
+        "Urea",
+        " mg/dL",
+        16.8,
+        43.3
+    ],
+    "Uric Acid": [
+        "Uric Acid",
+        "mg/dL",
+        3.6,
+        8.2
+    ],
+    "Vitamin - D (25-Hydroxyvitamin D)": [
+        "Vitamin - D (25-Hydroxyvitamin D)",
+        "ng/mL",
+        30,
+        100
+    ],
+    "Vitamin B12": [
+        "B12",
+        "pg/mL",
+        211.0,
+        911.0
+    ],
+    "WBC": [
+        "WBC",
+        " 10^3/uL",
+        4.0,
+        11.0
+    ],
+    "eGFR, serum": [
+        "eGFR",
+        "ml/min/1.73m^2",
+        0,
+        60.0
+    ]
+}

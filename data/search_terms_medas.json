@@ -1,0 +1,32 @@
+{
+    "Patient's Name": "line",
+    "Nationality": "line",
+    "Reg. No": "word",
+    "Age / Sex": "line",
+    "Date of Birth": "line",
+    "Contact No": "line",
+    "Email Id": "word",
+    "Doctor": "line",
+    "CHIEF COMPLAINTS / HISTORY OF PRESENT ILLNESS": "heading",
+    "Temperature": "line",
+    "B.P (Systolic)": "line",
+    "B.P (Diastolic)": "line",
+    "Pulse": "line",
+    "O2 Saturation": "line",
+    "Height": "line",
+    "Weight": "line",
+    "Past Surgical History": "lines",
+    "MEDICAL HISTORY": "heading",
+    "NURSE NOTES": "heading",
+    "PROCEDURES": "heading",
+    "Social History": "lines",
+    "Significant Past Medical Problems": "lines",
+    "Current Medication": "lines",
+    "Chief Complaint": "lines",
+    "Family History": "lines",
+    "Drug Allergy": "line",
+    "MEDICATIONS": "lines",
+    "FOLLOW UP PLAN": "lines"
+}
+ 
+

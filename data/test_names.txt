@@ -1,0 +1,96 @@
+Erythrocytes
+Fasting Glucose
+HBA1c
+Creatinine
+Total Cholesterol
+Triglycerides
+LDL Cholesterol
+SGPT - (ALT)
+SGOT - (AST)
+Alkaline Phosphatase - (ALP)
+Bilirubin - (Total)
+Microalbumin, Urine
+Thyroid Stimulating Hormone (TSH)
+eGFR, serum
+Haemoglobin
+HCT
+MCV
+MCH
+Platelets (PLT)
+WBC
+Neutrophils
+Lymphocytes
+Monocytes
+Eosinophils
+Basophils
+RBC Count
+MCHC
+C-Reactive Protein (CRP)
+Total Protein - (TP)
+Gamma Glutamyl Transferase -(GGT)
+HDL Cholesterol
+Cholesterol/HDL-C
+LDL/HDL RATIO
+Urea
+Sodium
+Potassium
+Iron (Fe)
+Free T4 (Free Thyroxine)
+Prostate Specific Antigen (PSA Total)
+RDW- CV
+Creatine Kinase (CK)
+Ferritin, serum
+Albumin
+25 Hydroxy (OH) Vitamin D, serum
+Total Testosterone
+Total T4
+Total Iron Binding Capacity, serum
+Uric Acid
+Chlorides
+ESR
+Microalbumin
+MCH 
+Total Bilirubin
+SGPT-(ALT)
+SGOT-(AST)
+Prostate Specific Antigen, (PSA Free)
+Alkaline Phosphatase -(ALP)
+Troponin-I (Rapid Test)
+D-dimer
+Zinc
+Homocysteine
+Folate
+Vitamin B12
+Occult blood, stool
+Prothrombin Time
+Normal Control (PT)
+INR
+Activated Partial Thromboplastin Time
+APTT
+Creatine Kinase (CK-MB)
+Calcium
+Vitamin - D (25-Hydroxyvitamin D)
+Specific Gravity
+GLucose-G (Random)
+Lactate Dehydrogenase -(LDH)
+Phosphorous,
+Bicarbonate, serum
+Transferrin
+Globulin
+Magnesium,
+Immunoglobulin-IgA
+Phosphorous
+Magnesium
+Phosphorus,
+Tissue Transglutaminase TTG IgA
+D-DIMER
+Immunoglobulin-IgG
+Immunoglobulin-IgM
+Total IgE
+HCG - Beta Subunit, serum
+Beta HCG
+Testosterone (ToTal)
+Folic acid
+Testosterone - Free, Serum
+Free Testosterone
+Anti HBs, Total (AHBS)
